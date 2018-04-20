@@ -4,7 +4,7 @@ Download the data: https://raw.githubusercontent.com/washingtonpost/data-school-
 
 # About this story
 
-The Washington Post spent a year determining how many children have been affected by school shootings, beyond just those killed or injured. To do that, reporters attempted to identify every act of gunfire at a primary or secondary school during school hours since the Columbine High massacre on April 20, 1999. Using Nexis, news articles, open-source databases, law enforcement reports, information from school websites, and calls to schools and police departments, The Post reviewed more than 1,000 alleged incidents, but counted only those that happened on campuses immediately before, during or just after classes.
+The Washington Post [spent a year determining how many children have been affected by school shootings](https://www.washingtonpost.com/graphics/2018/local/school-shootings-database/), beyond just those killed or injured. To do that, reporters attempted to identify every act of gunfire at a primary or secondary school during school hours since the Columbine High massacre on April 20, 1999. Using Nexis, news articles, open-source databases, law enforcement reports, information from school websites, and calls to schools and police departments, The Post reviewed more than 1,000 alleged incidents, but counted only those that happened on campuses immediately before, during or just after classes.
 
 Shootings at after-hours events, accidental discharges that caused no injuries to anyone other than the person handling the gun, and suicides that occurred privately or posed no threat to other children were excluded. Gunfire at colleges and universities, which affects young adults rather than kids, also was not counted.
 
