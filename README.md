@@ -1,4 +1,4 @@
-Download the data:
+Download the data: https://raw.githubusercontent.com/washingtonpost/data-school-shootings/master/school-shootings-data.csv
 
 [This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
 
