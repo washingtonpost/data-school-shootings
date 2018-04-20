@@ -1,0 +1,1002 @@
+uid,nces_school_id,school_name,nces_district_id,district_name,date,school_year,year,time,day_of_week,city,state,school_type,enrollment,killed,injured,casualties,shooting_type,age_shooter1,gender_shooter1,race_ethnicity_shooter1,shooter_relationship1,shooter_deceased1,deceased_notes1,age_shooter2,gender_shooter2,race_ethnicity_shooter2,shooter_relationship2,shooter_deceased2,deceased_notes2,white,black,hispanic,asian,american_indian_alaska_native,hawaiian_native_pacific_islander,two_or_more,resource_officer,weapon,weapon_source,lat,long,staffing,low_grade,high_grade,lunch,county,state_fips,county_fips,ulocale
+1,080480000707,Columbine High School,0804800,Jefferson County R-1,4/20/1999,1998-1999,1999,11:19 AM,Tuesday,Littleton,Colorado,public,1965,13,21,34,indiscriminate,18,m,w,student,1,suicide,17,m,w,student,1,suicide,1783,16,112,42,12,,,1,"12-gauge Savage-Springfield 67H pump-action shotgun, Hi-Point 995 Carbine 9mm carbine, 9×19mm Intratec TEC-9 semiautomatic handgun, 12-gauge Stevens 311D double-barreled sawed-off shotgun",purchased from friends,39.60391,-105.075,89.6,9,12,41,Jefferson County,08,08059,21
+2,220054000422,Scotlandville Middle School,2200540,East Baton Rouge Parish School Board,4/22/1999,1998-1999,1999,12:30 PM,Thursday,Baton Rouge,Louisiana,public,588,0,1,1,targeted,14,m,,former student (expelled),0,,,,,,,,5,583,0,0,0,,,0,.22-caliber handgun,,30.529958,-91.169966,39,6,8,495,East Baton Rouge Parish,22,22033,12
+3,130441001591,Heritage High School,1304410,Rockdale County,5/20/1999,1998-1999,1999,8:03 AM,Thursday,Conyers,Georgia,public,"1,369",0,6,6,indiscriminate,15,m,w,student,0,,,,,,,,1189,136,28,15,1,,,1,".22-caliber rifle, .357-caliber Magnum handgun",,33.626922,-84.04796,84,9,12,125,Rockdale County,13,13247,21
+4,421899003847,John Bartram High School,4218990,Philadelphia City SD,10/4/1999,1999-2000,1999,10:00 AM,Monday,Philadelphia,Pennsylvania ,public,3147,0,1,1,targeted,17,m,,student,0,,,,,,,,209,2736,27,170,5,,,1,RG .25-caliber handgun,purchased from friend,39.921509,-75.234108,41,9,12,2007,Philadelphia County,42,42101,11
+5,250279000225,Dorchester High School,2502790,Boston,11/3/1999,1999-2000,1999,7:40 AM,Wednesday,Boston,Massachusetts,public,"1,116",0,1,1,targeted,,m,,,0,,,,,,,,40,755,287,29,5,,,0,,,42.285268,-71.075901,,9,12,543,Suffolk County,25,25025,11
+6,350069000240,Deming Middle School,3500690,Deming Public Schools,11/19/1999,1999-2000,1999,12:45 PM,Friday,Deming,New Mexico,public,753,1,0,1,accidental or targeted,12,m,h,student,0,,,,,,,,160,6,583,2,2,,,0,.22-caliber Colt revolver ,home,32.261547,-107.762986,44,6,7,502,Luna County,35,35029,33
+7,401197000559,Fort Gibson Middle School,4011970,Fort Gibson,12/6/1999,1999-2000,1999,7:45 AM,Monday,Fort Gibson,Oklahoma,public,407,0,5,5,indiscriminate,13,m,ai,student,0,,,,,,,,239,3,12,0,153,,,0,Taurus 9mm handgun,father,35.795556,-95.241921,25.4,6,8,146,Muskogee County,40,40101,32
+8,120153001590,Ridgewood High School,1201530,Pasco,1/19/2000,1999-2000,2000,3:00 PM,Wednesday,New Port Richey,Florida,public,1852,1,0,1,accidental,16,m,w,student,0,,,,,,,,1697,28,96,26,5,,,1,.22-caliber Magnum handgun,stolen,28.273253,-82.687231,85,9,12,654,Pasco County,12,12101,21
+9,062460009581,Alicia Reyes Elementary School,0624600,Merced City Elementary,1/26/2000,1999-2000,2000,8:34 AM,Wednesday,Merced,California,public,734,0,0,0,targeted,13,m,,none,0,,,,,,,,82,40,389,222,1,,,0,.22-caliber revolver,,37.286387,-120.494808,36,KG,5,643,Merced County,06,06047,13
+10,170993000748,Duke Ellington Elementary School,1709930,City of Chicago School District 299,2/14/2000,1999-2000,2000,,Monday,Chicago,Illinois,public,736,0,1,1,accidental,11,m,,student,0,,,,,,,,0,736,0,0,0,,,0,,,41.885272,-87.766042,37,PK,6,,Cook County,17,17031,11
+11,280132000190,Horn Lake High School,2801320,Desoto County School District,2/22/2000,1999-2000,2000,,Tuesday,Horn Lake,Mississippi,public,1197,0,0,0,targeted,,m,,,0,,,,,,,,991,166,25,14,1,,,0,handgun,,34.948919,-90.035423,65,9,12,324,DeSoto County,28,28033,21
+12,402961001555,Tecumseh High School,4029610,Tecumseh,2/24/2000,1999-2000,2000,9:00 AM,Thursday,Tecumseh,Oklahoma,public,711,0,0,0,targeted,19,m,,former boyfriend of student,0,,,,,,,,527,8,12,2,162,,,0,,,35.255494,-96.943184,45.5,9,12,184,Pottawatomie County,40,40125,32
+13,260450004135,Buell Elementary School,2604500,Beecher Community School District,2/29/2000,1999-2000,2000,10:00 AM,Tuesday,Mount Morris Township,Michigan,public,459,1,0,1,targeted,6,m,b,student,0,,,,,,,,125,261,37,0,1,,,0,.32-caliber semiautomatic handgun,"uncle's friend, found in open shoebox",43.079604,-83.706037,20,KG,4,421,Genesee County,26,26049,21
+14,401521000713,Hugo High School,4015210,Hugo,4/6/2000,1999-2000,2000,12:00 PM,Thursday,Hugo,Oklahoma,public,499,0,1,1,targeted,33,f,,parent of student,0,,,,,,,,263,117,11,1,107,,,1,small-caliber handgun,legally purchased by shooter,34.010732,-95.511435,34.7,9,12,236,Choctaw County,40,40023,33
+15,040146000077,Carmichael Elementary School,0401460,Sierra Vista Unified District,5/10/2000,1999-2000,2000,1:30 PM,Wednesday,Sierra Vista,Arizona,public,397,1,0,1,targeted,39,m,,spouse of teacher,1,suicide,,,,,,,178,51,154,8,6,,,0,,,31.56269,-110.29924,24.5,KG,5,,Cochise County,04,04003,13
+16,120150002873,Lake Worth Middle School,1201500,Palm Beach County School District,5/26/2000,1999-2000,2000,3:00 PM,Friday,Lake Worth,Florida,public,"1,525",1,0,1,targeted,13,m,b,student,0,,,,,,,,414,560,528,17,6,,,0,.25-caliber handgun,grandfather,26.451351,-80.085968,95,6,8,1186,Palm Beach County,12,12099,21
+17,530723002564,Dimmitt Middle School,5307230,Renton,7/17/2000,1999-2000,2000,10:30 AM,Monday,Renton,Washington,public,956,0,0,0,indiscriminate,13,m,w,student in summer school,0,,,,,,,,276,375,73,218,14,,,0,.22-caliber handgun,grandparents,47.493015,-122.233115,42.3,6,8,,King County,53,53033,21
+18,390444101350,Mount Healthy North Junior High,3904441,Mount Healthy City SD,9/18/2000,2000-2001,2000,,Monday,Mount Healthy,Ohio,public,341,0,0,0,indiscriminate,14,m,,student,0,,,,,,,,149,192,0,0,0,,,1,.380-caliber semiautomatic handgun,relatives,39.251506,-84.555558,22.8,7,8,163,Hamilton County,39,39061,21
+19,220117000980,Carter G. Woodson Middle School,2201170,Orleans Parish School Board,9/26/2000,2000-2001,2000,12:00 PM,Tuesday,New Orleans,Louisiana,public,686,0,1,1,targeted,13,m,,student,0,,,,,,,,0,685,1,0,0,,,0,.38-caliber revolver,,29.939676,-90.090046,45,6,8,551,Orleans Parish,22,22071,11
+20,062927004519,Hueneme High School,0629270,Oxnard Union High,1/10/2001,2000-2001,2001,12:50 PM,Wednesday,Oxnard,California,public,"2,764",0,0,0,targeted,17,m,h,not a student but often hung around the school,1,killed by police,,,,,,,311,124,2145,134,50,,,1,handgun,,34.160149,-119.1822,110.2,9,12,1169,Ventura County,06,06111,12
+21,240009000263,Lake Clifton Eastern High School,2400090,Baltimore City Public Schools,1/17/2001,2000-2001,2001,8:45 AM,Wednesday,Baltimore,Maryland,public,"2,236",1,0,1,targeted,19,m,,none,0,,,,,,,,24,2205,2,4,1,,,0,.32-caliber handgun,,39.316116,-76.590038,126.5,PK,12,914,Baltimore City,24,24510,11
+22,481623021205,Pearl C. Anderson Middle School,4816230,Dallas ISD,2/6/2001,2000-2001,2001,,Tuesday,Dallas,Texas,public,879,0,1,1,targeted,14,m,,student (suspended),0,,,,,,,,3,793,82,0,1,,,1,revolver,,32.759323,-96.744389,89.3,7,8,607,Dallas County,48,48113,11
+23,061623002026,Santana High School,0616230,Grossmont Union High,3/5/2001,2000-2001,2001,9:20 AM,Monday,Santee,California,public,"1,894",2,13,15,indiscriminate,15,m,w,student,0,,,,,,,,1591,24,174,58,8,,,1,.22-caliber revolver,father,32.85756,-116.971045,79.9,9,12,202,San Diego County,06,06073,21
+24,1195358,Bishop Neumann Junior-Senior High,,,3/7/2001,2000-2001,2001,12:00 PM,Wednesday,Williamsport,Pennsylvania,private,227,0,1,1,targeted,14,f,w,student,0,,,,,,,,208,10,5,4,0,,,0,.22-caliber revolver,father,41.249266,-76.996564,21.125,7,12,,Lycoming County,42,42081,13
+25,061623002020,Granite Hills High School,0616230,Grossmont Union High,3/22/2001,2000-2001,2001,1:00 PM,Thursday,El Cajon,California,public,"2,846",0,5,5,targeted and indiscriminate,18,m,,student,0,,,,,,,,2256,67,376,66,50,,,1,Mossberg 12-gauge pump-action shotgun,,32.800101,-116.916889,112.2,9,12,436,San Diego County,06,06073,21
+26,180387000637,Lew Wallace High School,1803870,Gary Community School Corp,3/30/2001,2000-2001,2001,8:15 AM,Friday,Gary,Indiana,public,"1,179",1,0,1,targeted,17,m,,former student (expelled),0,,,,,,,,2,1135,39,3,0,,,1,handgun,,41.536645,-87.34132,64,9,12,446,Lake County,18,18089,13
+27,220108001296,Monroe City Alternative Center,2201080,City of Monroe School Board,4/20/2001,2000-2001,2001,7:20 AM,Friday,Monroe,Louisiana,public,65,0,0,0,targeted,14,m,,student,0,,,,,,,,,,,,,,,0,.380-caliber semiautomatic handgun,,32.524187,-92.070624,,,,,Ouachita Parish,22,22073,13
+28,481854001737,Ennis High School,4818540,Ennis ISD,5/15/2001,2000-2001,2001,12:00 PM,Tuesday,Ennis,Texas,public,1279,0,0,0,hostage suicide,16,m,,student,1,suicide,,,,,,,692,202,383,2,0,,,0,.357 Magnum handgun,,32.305062,-96.629758,93.7,9,12,447,Ellis County,48,48139,41
+29,062271007751,Belmont High School,0622710,Los Angeles Unified,7/30/2001,2000-2001,2001,7:20 AM,Monday,Los Angeles,California,public,"5,264",0,1,1,targeted,,m,,,0,,,,,,,,27,98,4679,456,4,,,1,revolver,,34.061499,-118.263286,194.3,9,12,4046,Los Angeles County,06,06037,11
+30,210135000271,Latonia Elementary School,2101350,Covington Independent,9/12/2001,2001-2002,2001,3:00 PM,Wednesday,Covington,Kentucky,public,526,1,0,1,targeted,30,f,w,parent of student,0,,,,,,,,441,81,0,1,3,,,0,.380-caliber semiautomatic handgun,,39.044149,-84.49833,16.8,KG,5,350,Kenton County,21,21117,21
+31,060003206330,Redondo Union High School,0600032,Redondo Beach Unified,10/26/2001,2001-2002,2001,10:00 AM,Friday,Redondo Beach,California,public,2069,0,1,1,accidental,16,m,,student,0,,,,,,,,1199,121,518,216,15,,,0,.38-caliber handgun,,33.844274,-118.384456,94.4,9,12,465,Los Angeles County,06,06037,21
+32,260804000994,Caro Learning Center,2608040,Caro Community Schools,11/12/2001,2001-2002,2001,2:40 PM,Monday,Caro,Michigan,public,151,0,0,0,targeted,17,m,,student,1,suicide,,,,,,,126,2,23,0,0,,,0,20-gauge shotgun,legally purchased by shooter,43.458011,-83.438553,,9,12,6,Tuscola County,26,26157,32
+33,362058002029,"Martin Luther King, Jr. High School",3620580,New York City Public Schools,1/15/2002,2001-2002,2002,2:00 PM,Tuesday,New York City,New York,public,"2,258",0,2,2,targeted,17,m,,student,0,,,,,,,,49,1223,949,29,8,,,0,Lorcin .380-caliber semiautomatic handgun,illegally purchased,40.774262,-73.985021,97.7,9,12,1831,New York County,36,36061,11
+34,062271003034,Gardena High School,0622710,Los Angeles Unified,2/6/2002,2001-2002,2002,2:50 PM,Wednesday,Los Angeles,California,public,"3,198",0,2,2,targeted,17,m,,student,0,,,,,,,,77,1381,1492,244,4,,,0,handgun,,33.866342,-118.296704,133.2,9,12,1941,Los Angeles County,06,06037,11
+35,240051000982,Benjamin Tasker Middle School,2400510,Prince George's County Public Schools,10/7/2002,2002-2003,2002,8:09 AM,Monday,Bowie,Maryland,public,"1,371",0,1,1,indiscriminate,,m,b,none,0,,,,,,,,562,706,47,52,4,,,0,Bushmaster XM-15 rifle,stolen,38.957407,-76.746341,73.7,7,8,197,Prince George's County,24,24033,21
+36,340783002776,Lincoln High School,3407830,Jersey City,10/29/2002,2002-2003,2002,8:30 AM,Tuesday,Jersey City,New Jersey,public,986,0,1,1,targeted,15,m,,student,0,,,,,,,,9,722,208,43,4,,,1,Browning .380-caliber handgun,,40.716783,-74.070502,102,9,12,495,Hudson County,34,34017,11
+37,753892,St. James Catholic School,,,11/7/2002,2002-2003,2002,12:30 PM,Thursday,Liberty,Missouri,private,297,1,1,2,targeted,41,m,,parent of student,0,,,,,,,,287,4,5,1,0,,,0,revolver,legally purchased by shooter,39.240746,-94.45515,,KG,8,,Clay County,29,29047,21
+38,440090000232,Mount Pleasant High School,4400900,Providence School District,1/22/2003,2002-2003,2003,,Wednesday,Providence,Rhode Island,public,1641,0,0,0,targeted,,m,,student,0,,,,,,,,247,396,831,155,12,,,0,.22-caliber semiautomatic handgun,,41.837981,-71.45125,,9,12,1097,Providence County,44,44007,12
+39,080723001239,Ranum High School,0807230,Westminster 50,2/5/2003,2002-2003,2003,8:40 AM,Wednesday,Westminster,Colorado,public,"1,434",0,0,0,targeted,14,m,,student,0,,,,,,,,539,18,748,112,17,,,1,small semiautomatic handgun,,39.841774,-105.015495,68,9,12,524,Adams County,08,08001,21
+40,110003000082,Cardozo High School,1100030,District Of Columbia Pub Schls,4/1/2003,2002-2003,2003,12:15 PM,Tuesday,Washington,District of Columbia,public,749,0,1,1,targeted,15,m,,student,0,,,,,,,,6,530,183,28,2,,,1,handgun,,38.922338,-77.029756,,9,12,427,District of Columbia,11,11001,11
+41,220117000928,John McDonogh High School,2201170,Orleans Parish School Board,4/14/2003,2002-2003,2003,10:30 AM,Monday,New Orleans,Louisiana,public,"1,260",1,3,4,targeted,19,m,,none,0,,17,m,,none,,,10,1241,9,0,0,,,1,"AK-47-style semiautomatic rifle, semiautomatic handgun",,29.974421,-90.075733,63,8,12,843,Orleans Parish,22,22071,11
+42,060003907541,Delhi Middle School,0600039,Delhi Unified,4/15/2003,2002-2003,2003,8:15 AM,Tuesday,Delhi,California,public,394,0,1,1,targeted,,m,,,0,,,,,,,,101,7,273,13,0,,,0,handgun,,37.426801,-120.792392,18,6,8,270,Merced County,06,06047,23
+43,422010004597,Red Lion Area Junior High School,4220100,Red Lion Area SD,4/24/2003,2002-2003,2003,7:30 AM,Thursday,Red Lion,Pennsylvania,public,965,1,0,1,targeted,14,m,w,student,1,suicide,,,,,,,949,6,5,5,0,,,1,".44-caliber handgun, .22-caliber gun",stepfather,39.893809,-76.609728,46,7,8,156,York County,42,42133,22
+44,280447000830,Vicksburg High School,2804470,Vicksburg Warren School Dist,9/10/2003,2003-2004,2003,2:30PM,Wednesday,Vicksburg,Mississippi,public,1121,1,0,1,targeted,20,m,,,0,,,,,,,,388,719,9,5,0,,,0,handgun,,32.323263,-90.885251,63.8,9,12,540,Warren County,28,28149,32
+45,530825001388,Lewis and Clark High School,5308250,Spokane School District,9/22/2003,2003-2004,2003,11:10 AM,Monday,Spokane,Washington,public,"1,992",0,0,0,indiscriminate,16,m,w,student,0,,,,,,,,"1,701",116,64,71,40,,,0,9mm semiautomatic handgun,home,47.652394,-117.419841,92,9,12,545,Spokane County,53,53063,12
+46,270944000388,Rocori High School,2709440,Rocori,9/24/2003,2003-2004,2003,11:38 AM,Wednesday,Cold Spring,Minnesota,public,831,2,0,2,targeted,15,m,w,student,0,,,,,,,,813,3,8,7,0,,,0,.22-caliber handgun,father,45.466258,-94.426618,48,8,12,100,Stearns County,27,27145,31
+47,370090000337,Burns Middle School,3700900,Cleveland County Schools,9/25/2003,2003-2004,2003,8:00 AM,Thursday,Lawndale,North Carolina,public,"1,049",0,0,0,indiscriminate,13,m,,student,0,,,,,,,,786,240,20,3,0,,,1,9mm handgun,,35.425762,-81.539104,63,6,8,510,Cleveland County,37,37045,31
+48,061233007702,Rio Cazadero High School,0612330,Elk Grove Unified,10/1/2003,2003-2004,2003,9:00 AM,Wednesday,Sacramento,California,public,317,0,2,2,targeted,,m,,multiple officers,0,,,,,,,,27,105,91,88,5,,,0,officer weapons,police,38.469639,-121.435306,10.8,9,12,99,Sacramento County,06,06067,21
+49,110003000084,Ballou High School,1100030,District Of Columbia Pub Schls,2/2/2004,2003-2004,2004,10:30 AM,Monday,Washington,District of Columbia,public,"1,090",1,1,2,targeted,18,m,b,student,0,,,,,,,,0,1084,2,2,2,,,1,.380-caliber handgun,puchased by shooter and friends,38.839005,-77.001667,68,9,12,897,District of Columbia,11,11001,11
+50,360963000731,Columbia High School,3609630,East Greenbush Central School District,2/9/2004,2003-2004,2004,10:30 AM,Monday,East Greenbush,New York,public,"1,455",0,1,1,indiscriminate,16,m,w,student,0,,,,,,,,"1,390",28,6,31,0,,,0,Winchester 12-gauge pump-action shotgun,,42.62068,-73.690848,,9,12,,Rensselaer County,36,36083,21
+51,421899003675,T.M. Peirce Elementary School,4218990,Philadelphia City SD,2/11/2004,2003-2004,2004,8:30 AM,Wednesday,Philadelphia,Pennsylvania,public,453,1,1,2,targeted,19,m,b,none,0,,20,m,b,none,0,,2,445,4,2,0,,,1,"carbine rifle, assault weapon",,39.998621,-75.168248,26,KG,5,450,Philadelphia County,42,42101,11
+52,062805012992,Castlemont High School,0628050,Oakland Unified,6/9/2004,2003-2004,2004,12:22 PM,Wednesday,Oakland,California,public,"1,467",0,2,2,targeted,,,,,0,,,,,,,,9,736,631,83,1,,,0,,,37.75982,-122.16302,56.5,9,12,340,Alameda County,06,06001,11
+53,173291003406,Proviso East High School,1732910,Proviso Twp H S Dist 209,8/30/2004,2004-2005,2004,2:30 PM,Monday,Maywood,Illinois,public,"2,068",1,0,1,targeted,,m,b,none,0,,,,,,,,44,1506,497,9,10,,,1,handgun,,41.88062,-87.83382,110,9,12,637,Cook County,17,17031,21
+54,180387000649,Wirt High School,1803870,Gary Community School Corp,9/15/2004,2004-2005,2004,,Wednesday,Gary,Indiana,public,792,0,0,0,indiscriminate,,m,,student,0,,,,,,,,10,769,11,2,0,,,0,handgun,,41.60997,-87.26145,49.7,9,12,394,Lake County,18,18089,13
+55,240009001561,Thurgood Marshall High School,2400090,Baltimore City,10/21/2004,2004-2005,2004,4:00 PM,Thursday,Baltimore,Maryland,public,502,0,2,2,targeted,16,m,,student,0,,,,,,,,6,493,2,0,1,,,1,handgun,,39.31911,-76.54552,22,9,11,296,Baltimore City,24,24510,11
+56,220117000973,Booker T. Washington High School,2201170,Orleans Parish,11/12/2004,2004-2005,2004,12:00 PM,Friday,New Orleans,Louisiana,public,383,0,1,1,targeted,28,f,,security guard,0,,,,,,,,2,381,0,0,0,,,1,.38-caliber revolver,department issued,29.94966,-90.08893,36.8,8,12,308,Orleans Parish,22,22071,11
+57,A9902648,Emmanuel Christian Academy,,,12/7/2004,2004-2005,2004,3:00 PM,Tuesday,Jackson,Mississippi,private,128,0,1,1,accidental,28,f,,,0,,,,,,,,0,128,0,0,0,,,0,.22-caliber handgun,,32.288835,-90.196049,11,PK,8,,Hinds County,28,28049,12
+58,173123003295,Woodruff High School,1731230,Peoria School District 150,1/26/2005,2004-2005,2005,,Wednesday,Peoria,Illinois,public,"1,012",0,0,0,targeted,15,m,b,student,0,,,,,,,,336,602,60,14,0,,,0,handgun,,40.70725,-89.57513,65,9,12,606,Peoria County,17,17143,12
+59,170993005072,Bowen High School,1709930,City Of Chicago School Dist 299,2/8/2005,2004-2005,2005,2:32 PM,Tuesday,Chicago,Illinois,public,215,0,1,1,targeted,,,,,0,,,,,,,,2,167,46,0,0,,,0,,,41.73354,-87.557742,45.7,11,12,212,Cook County,17,17031,11
+60,470318001337,Maplewood Comprehensive High School,4703180,Nashville-Davidson County SD,3/9/2005,2004-2005,2005,2:00 PM,Wednesday,Nashville,Tennessee,public,"1,119",0,1,1,targeted,16,m,,former student (expelled),0,,,,,,,,219,868,21,11,0,,,0,handgun,,36.22912,-86.74568,63,9,12,,Davidson County,47,47037,11
+61,273051001303,Red Lake High School,2730510,Red Lake,3/21/2005,2004-2005,2005,2:49 PM,Monday,Red Lake,Minnesota,public,331,7,7,14,indiscriminate,16,m,ai,former student,1,suicide,,,,,,,0,0,0,0,331,,,1," Glock 23 .40-caliber handgun, 870 12-gauge pump-action shotgun",grandfather,47.8509,-95.0629,31.1,9,12,295,Beltrami County,27,27007,43
+62,481275000769,Canton High School,4812750,Canton ISD,4/7/2005,2004-2005,2005,9:20 AM,Thursday,Canton,Texas,public,533,0,1,1,targeted,45,m,w,father of football player,0,,,,,,,,484,16,29,1,3,,,0,.45-caliber handgun,legally purchased by shooter,32.54958,-95.86617,39.4,9,12,79,Van Zandt County,48,48467,32
+63,422583001736,Highland Elementary School,4225830,West Shore SD,5/17/2005,2004-2005,2005,3:00 PM,Tuesday,Lower Allen Township,Pennsylvania,public,445,1,0,1,targeted,47,m,,dating mother of student,1,suicide,,,,,,,403,23,10,9,0,,,0,9mm semiautomatic handgun,,40.21999,-76.95256,24.2,KG,5,35,Cumberland County,42,42041,21
+64,470210000681,Maury Middle School,4702100,Jefferson County School District,8/25/2005,2005-2006,2005,9:30 AM,Thursday,Jacksboro,Tennessee,public,609,0,1,1,accidental,14,m,,student,0,,,,,,,,594,9,4,2,0,,,0,.38-caliber Smith & Wesson handgun,guardian (uncle),36.0213,-83.4041,34.7,6,8,314,Jefferson County,47,47089,41
+65,120048004192,Sojourner Truth High School,1200480,Duval County School District,9/2/2005,2005-2006,2005,12:50 PM,Friday,Jacksonville,Florida,public,123,0,1,1,targeted,,m,,,0,,,,,,,,9,110,4,0,0,,,0,handgun,,30.27037,-81.61618,7,9,12,62,Duval County,12,12031,11
+66,170993000851,Harlan Community Academy High School,1709930,City Of Chicago Sd 299,9/13/2005,2005-2006,2005,2:20 PM,Tuesday,Chicago,Illinois,public,"1,381",0,1,1,targeted,15,m,,student,0,,,,,,,,0,1381,0,0,0,,,1,.25-caliber handgun,,41.7184,-87.62085,101.6,7,12,959,Cook County,17,17031,11
+67,291191000440,Farmington High School,2911910,Farmington R-VII,10/11/2005,2005-2006,2005,8:00 AM,Tuesday,Farmington,Missouri,public,"1,160",0,0,0,indiscriminate,17,m,w,student,0,,,,,,,,"1,126",18,7,8,1,,,0,12-gauge shotgun,father,37.78108,-90.43619,68.6,9,12,344,St. Francois County,29,29187,32
+68,263039006677,Saginaw High School,2630390,Saginaw City School District,10/20/2005,2005-2006,2005,12:00 PM,Thursday,Saginaw,Michigan,public,"1,178",0,1,1,targeted,15,m,,student,0,,,,,,,,16,1128,34,0,0,,,1,.380-caliber handgun,stolen,43.40713,-83.92541,58,9,12,823,Saginaw County,26,26145,13
+69,470042000117,Campbell County High School,4700420,Campbell County School Distrct,11/8/2005,2005-2006,2005,2:00 PM,Tuesday,Jacksboro,Tennessee,public,"1,440",1,2,3,targeted and indiscriminate,15,m,w,student,0,,,,,,,,"1,429",0,6,5,0,,,0,.22-caliber handgun,,36.35086,-84.14832,79.4,9,12,851,Campbell County,47,47013,32
+70,261200004670,Central High School,2612000,Detroit City School District,12/6/2005,2005-2006,2005,1:30 PM,Tuesday,Detroit,Michigan,public,"1,205",0,1,1,indiscriminate,18,m,,,0,,,,,,,,5,1194,0,1,5,,,0,,,42.38469,-83.11269,55.2,8,12,897,Wayne County,26,26163,11
+71,550960001256,Mary McLeod Bethune Academy,5509600,Milwaukee Sch Dist,1/11/2006,2005-2006,2006,12:30 PM,Wednesday,Milwaukee,Wisconsin,public,366,0,1,1,indiscriminate,18,m,,,0,,,,,,,,14,311,4,35,2,,,0,,,43.05063,-87.95774,24,PK,7,321,Milwaukee County,55,55079,11
+72,120171001868,Milwee Middle School,1201710,Seminole County School District,1/13/2006,2005-2006,2006,9:30 AM,Friday,Longwood,Florida,public,"1,121",1,0,1,targeted,,m,w,SWAT officer,0,,,,,,,,635,158,309,18,1,,,1,high-powered rifle,police issued,28.68172,-81.34669,76,6,8,569,Seminole County,12,12117,21
+73,510081000299,Indian River High School,5100810,Chesapeake City Public Schools,1/18/2006,2005-2006,2006,11:00 AM,Wednesday,Chesapeake,Virginia,public,"1,836",0,0,0,targeted,19,m,,,0,,,,,,,,733,957,53,69,6,,,0,,,36.79721,-76.24185,126,9,12,427,Chesapeake City,51,51550,21
+74,064059009648,Will C. Wood High School,0640590,Vacaville Unified,1/23/2006,2005-2006,2006,9:45 AM,Monday,Vacaville,California,public,2138,0,1,1,accidental,14,m,,student,0,,,,,,,,1271,233,394,161,27,,,0,revolver,,38.34635,-121.97421,85.8,9,12,398,Solano County,06,06095,23
+75,482034002033,Lakeview Centennial High School,4820340,Garland ISD,1/27/2006,2005-2006,2006,,Friday,Garland,Texas,public,2175,0,2,2,accidental,16,m,,student,0,,,,,,,,630,755,674,108,8,,,0,small-caliber semiautomatic handgun,,32.85566,-96.57589,157.1,9,12,994,Dallas County,48,48113,21
+76,421917000420,Westinghouse High School,4219170,Pittsburgh SD,2/21/2006,2005-2006,2006,7:45 AM,Tuesday,Pittsburgh,Pennsylvania,public,562,0,1,1,targeted,23,m,,,0,,,,,,,,1,561,0,0,0,,,1,AK-47-style semiautomatic rifle,,40.4607,-79.90059,41.2,9,12,374,Allegheny County,42,42003,11
+77,411071000300,Roseburg High School,4110710,Douglas County SD 4,2/23/2006,2005-2006,2006,7:45 AM,Thursday,Roseburg,Oregon,public,"2,052",0,1,1,targeted,14,m,w,student,0,,,,,,,,"1,844",12,111,45,40,,,1,large-caliber handgun with hollow-point bullets,,43.208,-123.34712,92,8,12,689,Douglas County,41,41019,33
+78,320048000211,Pine Middle School,3200480,Washoe,3/14/2006,2005-2006,2006,9:00 AM,Tuesday,Reno,Nevada,public,868,0,2,2,indiscriminate,14,m,w,student,0,,,,,,,,502,19,293,40,14,,,0,.38-caliber handgun,father,39.47981,-119.78186,40,7,8,286,Washoe County,32,32031,12
+79,062271003429,Venice High School,0622710,Los Angeles Unified,6/5/2006,2005-2006,2006,3:10 PM,Monday,Los Angeles,California,public,"3,210",1,0,1,targeted,21,m,b,,0,,,,,,,,413,336,2173,269,19,,,0,.38-caliber handgun,,33.99881,-118.44282,129.2,9,12,2063,Los Angeles County,06,06037,11
+80,370348001447,Orange High School,3703480,Orange County Schools,8/30/2006,2006-2007,2006,1:00 PM,Wednesday,Hillsborough,North Carolina,public,1150,0,2,2,indiscriminate,19,m,h,former student,0,,,,,,,,776,290,55,6,3,,,0,"9mm rifle, a Mossburg sawed-off 12-gauge shotgun",,36.09233,-79.09337,66.7,9,12,276,Orange County,37,37135,41
+81,481970008026,South Hills High School,4819700,Fort Worth ISD,9/8/2006,2006-2007,2006,1:20 PM,Friday,Fort Worth,Texas,public,"1,417",0,1,1,targeted,,m,,resource officer,0,,,,,,,,103,242,1053,19,0,,,1,handgun,police issued weapon,32.65726,-97.36,86.7,9,12,921,Tarrant County,48,48439,11
+82,080237000087,Platte Canyon High School,0802370,"Platte Canyon, School District No. 1, Of The County Of Park",9/27/2006,2006-2007,2006,11:40 AM,Wednesday,Bailey,Colorado,public,476,1,0,1,targeted,53,m,w,,1,suicide,,,,,,,424,4,28,7,13,,,0,"Smith & Wesson .40-caliber Glock 22 handgun, Smith & Wesson .357-caliber revolver",,39.45566,-105.64543,26.2,9,12,82,Park County,08,08093,43
+83,551647002155,Weston High School,5516470,Weston,9/29/2006,2006-2007,2006,8:10 AM,Friday,Cazenovia,Wisconsin,public,119,1,0,1,targeted,15,m,w,student,0,,,,,,,,117,2,0,0,0,,,0,"long-barrel shotgun, .22-caliber handgun",father,43.48211,-90.19016,10.5,9,12,35,Sauk County,55,55111,43
+84,,West Nickel Mines Amish School,,,10/2/2006,2006-2007,2006,11:07 AM,Monday,Nickel Mines,Pennsylvania,private,26,5,5,10,targeted,32,m,w,none; worked in community,1,suicide,,,,,,,26,0,0,0,0,,,0,"9mm handgun, shotgun, 30.06 rifle",purchased legally by shooter,39.960081,-76.084367,1,KG,8,,Lancaster County,42,42071,
+85,291635002429,Memorial Middle School,2916350,Joplin R-VIII,10/9/2006,2006-2007,2006,7:45 AM,Monday,Joplin,Missouri,public,699,0,0,0,indiscriminate,13,m,w,student,0,,,,,,,,591,43,49,7,9,,,0,MAC 90 7.26mm assault rifle,parent,37.08277,-94.51586,50.3,6,8,312,Jasper County,29,29097,13
+86,530870001466,Henry Foss High School,5308700,Tacoma School District,1/3/2007,2006-2007,2007,7:30 AM,Wednesday,Tacoma,Washington,public,"1,749",1,0,1,targeted,18,m,,student,0,,,,,,,,692,535,139,354,29,,,0,handgun,,47.24114,-122.49364,85.4,9,12,884,Peirce County,53,53053,12
+87,390437500382,Robert A. Taft Information Technology High School,3904375,Cincinnati City,1/8/2007,2006-2007,2007,10:45 AM,Monday,Cincinnati,Ohio,public,745,0,0,0,targeted,16,m,,student,0,,,,,,,,20,715,0,0,0,,,0,,,39.10911,-84.52183,46,9,12,397,Hamilton County,39,39061,11
+88,421899003825,William L.Sayre High School,4218990,Philadelphia City SD,1/18/2007,2006-2007,2007,8:25 AM,Thursday,Philadelphia,Pennsylvania,public,655,0,1,1,targeted,,m,,,0,,,,,,,,1,647,5,1,1,,,1,9mm semiautomatic Ruger handgun,,39.95793,-75.2374,40.4,7,12,572,Philadelphia County,42,42101,11
+89,262382006068,Herbert Henry Dow High School,2623820,Midland Public Schools,3/7/2007,2006-2007,2007,10:57 AM,Wednesday,Midland,Michigan,public,"1,593",0,1,1,targeted,17,m,w,boyfriend of student,1,suicide,,,,,,,"1,475",32,26,56,4,,,0,.44-caliber Magnum revolver,,43.64091,-84.27414,78.6,8,12,201,Midland County,26,26111,31
+90,170993000943,Chicago Vocational Career Academy ,1709930,City Of Chicago Sd 299,4/9/2007,2006-2007,2007,2:30 PM,Monday,Chicago,Illinois,public,2020,0,1,1,accidental,15,m,,student,0,,,,,,,,2,1993,7,0,1,,,0,9mm handgun,,41.7372,-87.57236,105,9,12,1930,Cook County,17,17031,11
+91,410600004183,Springwater Trail High School,4106000,Gresham-Barlow Sd 10J,4/10/2007,2006-2007,2007,2:15 PM,Tuesday,Gresham,Oregon,public,163,0,10,10,indiscriminate,15,m,,student,0,,,,,,,,133,3,17,3,4,,,0,.270 Winchester rifle with scope,stepfather,45.48655,-122.40894,11.8,9,12,51,Multnomah County,41,41051,21
+92,482829010477,Liberty Memorial Middle School,4828290,Los Fresnos CISD,5/15/2007,2006-2007,2007,10:00 AM,Tuesday,Los Fresnos,Texas,public,505,0,0,0,indiscriminate,14,m,,student,0,,,,,,,,18,0,487,0,0,,,0,.38-caliber semiautomatic handgun,father,26.1106,-97.5108,35,6,8,187,Cameron County,48,48061,41
+93,120087003862,George S. Middleton High School,1200870,Hillsborough,6/6/2007,2006-2007,2007,12:00 PM,Wednesday,Tampa,Florida,public,"1,799",0,0,0,targeted,17,m,,former student,0,,,,,,,,268,1256,202,29,4,,,1,.22-caliber handgun,,27.99133,-82.43267,91,9,12,1091,Hillsborough County,12,12057,11
+94,390437804449,SuccessTech Academy,3904378,Cleveland Municipal City,10/10/2007,2007-2008,2007,1:15 PM,Wednesday,Cleveland,Ohio,public,260,0,4,4,indiscriminate,14,m,,student,1,suicide,,,,,,,22,227,9,0,1,,,1,".22-caliber revolver, .38-caliber revolver",,41.50762,-81.6869,14,9,12,,Cuyahoga County,39,39035,11
+95,130102000413,Groves High School,1301020,Chatham County,10/15/2007,2007-2008,2007,2:45 PM,Monday,Garden City,Georgia,public,"1,534",0,0,0,targeted,,m,,,0,,,,,,,,381,997,89,37,3,,,0,,,32.10841,-81.15661,90,9,12,799,Chatham County,13,13051,22
+96,370012202591,Crossroads Charter High School,3700122,Crossroads Charter High,1/16/2008,2007-2008,2008,10:15 AM,Wednesday,Charlotte,North Carolina,public,244,0,1,1,accidental,16,m,b,student,0,,,,,,,,5,230,8,0,1,,,0,,,35.26039,-80.77591,13,9,12,,Mecklenburg County,37,37119,11
+97,470294001080,Hamilton High School,4702940,Memphis City School District,2/4/2008,2007-2008,2008,10:00 AM,Monday,Memphis,Tennessee,public,"1,581",0,1,1,targeted,16,m,,student,0,,,,,,,,4,1577,0,0,0,,,0,.380-caliber handgun,,35.10069,-90.0174,87.9,9,12,863,Shelby County,47,47157,11
+98,01059778,Notre Dame Elementary School,,,2/7/2008,2007-2008,2008,9:12 AM,Thursday,Portsmouth,Ohio,private,166,0,1,1,targeted,56,m,w,spouse of teacher,1,suicide,,,,,,,158,3,1,0,4,,,0,,,38.735563,-82.986607,14,PK,6,,Scioto County,39,39145,31
+99,470294001122,Mitchell High School,4702940,Memphis City School District,2/11/2008,2007-2008,2008,9:00 AM,Monday,Memphis,Tennessee,public,"1,110",0,1,1,targeted,17,m,,student,0,,,,,,,,0,1109,0,1,0,,,1,.22-caliber handgun,purchased from someone in apartment complex,35.05595,-90.08589,53.8,9,12,787,Shelby County,47,47157,11
+100,061785002199,E.O. Green Junior High School,0617850,Hueneme Elementary,2/12/2008,2007-2008,2008,8:15 AM,Tuesday,Oxnard,California,public,"1,065",1,0,1,targeted,14,m,,student,0,,,,,,,,125,49,829,58,4,,,0,.22-caliber handgun ,relative,34.16568,-119.1814,50,6,8,775,Ventura County,06,06111,12
+101,,Friends of Children Head Start center,,,3/18/2008,2007-2008,2008,1:00 PM,Tuesday,Carthage,Mississippi,private,100,1,1,2,,23,,,,,,,,,,,,,,,,,,,0,.45-caliber handgun ,,,,,PK,PK,,Leake County,28,28079,32
+102,061455001762,Roosevelt High School,0614550,Fresno Unified,4/16/2008,2007-2008,2008,11:54 AM,Wednesday,Fresno,California,public,"2,735",1,0,1,targeted,38,m,,resource officer,0,,,,,,,,130,112,2039,444,10,,,1,handgun,department issued,36.74302,-119.7537,137.6,9,12,2466,Fresno County,06,06019,11
+103,470222000775,Central High School,4702220,Knox County School District,8/21/2008,2008-2009,2008,8:10 AM,Thursday,Knoxville,Tennessee,public,"1,210",1,0,1,targeted,15,m,,student,0,,,,,,,,872,254,55,25,4,,,1,small-caliber semiautomatic handgun,,36.0392,-83.9216,79.5,9,12,569,Knox County,47,47093,12
+104,120018000169,Dillard High School,1200180,Broward,11/12/2008,2008-2009,2008,11:00 AM,Wednesday,Fort Lauderdale,Florida,public,"1,758",1,0,1,targeted,15,f,b,student,0,,,,,,,,80,1576,76,6,1,,,1,.22-caliber semiautomatic handgun,family member,26.1383,-80.176,149.4,9,12,1193,Broward County,12,12011,12
+105,261200004670,Central High School,2612000,Detroit City School District,2/17/2009,2008-2009,2009,2:00 PM,Tuesday,Detroit,Michigan,public,919,0,2,2,targeted,17,m,,non-student,0,,,,,,,,4,913,0,0,2,,,1,handgun,,42.3837,-83.1115,57.2,9,12,640,Wayne County,26,26163,11
+106,061674002125,John Muir Elementary School,0616740,Hayward Unified,2/20/2009,2008-2009,2009,12:00 PM,Friday,Hayward,California,public,354,0,0,0,targeted,,m,h,,0,,,,,,,,13,54,252,34,1,,,0,shotgun,,37.6566,-122.083,20.4,KG,6,,Alameda County,06,06001,12
+107,120048000691,Ribault High School,1200480,Duval,3/10/2009,2008-2009,2009,7:22 AM,Tuesday,Jacksonville,Florida,public,"1,131",0,0,0,targeted,,,,,0,,,,,,,,53,1051,15,2,0,,,0,,,30.3895,-81.707,67.4,9,12,609,Duval County,12,12031,11
+108,220090000711,Larose-Cut Off Middle School,2200900,Lafourche Parish,5/18/2009,2008-2009,2009,9:00 AM,Monday,Larose,Louisiana,public,512,0,0,0,targeted,15,m,,student,1,suicide,,,,,,,405,28,23,15,41,,,0,.25-caliber nickel plate semiautomatic handgun,father,29.5004,-90.3295,37.8,6,8,265,Lafourche Parish,22,22057,41
+109,090003101405,Stamford Academy,0900031,Stamford Academy,9/8/2009,2009-2010,2009,8:05 AM,Tuesday,Stamford,Connecticut,public,131,0,0,0,targeted,16,m,,student,0,,,,,,,,7,89,33,2,0,,,0,.22-caliber handgun,,41.059329,-73.536464,8,9,12,111,Fairfield County,09,09001,12
+110,510189000805,Virginia Randolph Community High School,5101890,Henrico Co Pblc Schs,9/16/2009,2009-2010,2009,12:30 PM,Wednesday,Glen Allen,Virginia,public,292,0,0,0,targeted,16,m,,student,0,,,,,,,,66,186,13,3,0,,,0,.40-caliber handgun ,,37.661586,-77.483135,30.18,8,12,237,Henrico County,51,51087,21
+111,360002101704,Mattituck Junior-Senior High School,3600021,Mattituck-Cutchogue Union Free School District,10/8/2009,2009-2010,2009,2:00 PM,Thursday,Mattituck,New York,public,812,0,1,1,accidental,28,m,,,0,,,,,,,,736,24,43,8,0,0,0,0,.22-caliber rifle,mother,40.996241,-72.529205,68.28,7,12,86,Suffolk County,36,36103,31
+112,450249000244,Carolina Forest High School,4502490,Horry 01,10/16/2009,2009-2010,2009,8:25 AM,Friday,Conway,South Carolina,public,"1,958",1,0,1,targeted,,m,w,resource officer,0,,,,,,,,"1,400",309,124,60,25,,,1,Glock .40-caliber semiautomatic handgun,department issued,33.780761,-78.97152,102.5,9,12,901,Horry County,45,45051,41
+113,220030000208,Booker T. Washington High School,2200300,Caddo Parish,12/11/2009,2009-2010,2009,8:10 AM,Friday,Shreveport,Louisiana,public,336,0,1,1,targeted,28,m,b,ex-boyfriend of student,0,,,,,,,,1,335,0,0,0,,,1,handgun,,32.503605,-93.77398,34.55,9,12,278,Caddo Parish,22,22017,12
+114,010000800495,Discovery Middle School,0100008,Madison City,2/5/2010,2009-2010,2010,1:45 PM,Friday,Madison,Alabama,public,"1,000",1,0,1,targeted,14,m,a,student,0,,,,,,,,707,188,27,50,8,,,1,.22-caliber handgun,friend's home,34.740322,-86.741148,54.5,7,9,176,Madison County,01,01089,22
+115,080480001315,Deer Creek Middle School,0804800,Jefferson County School District No. R-1,2/23/2010,2009-2010,2010,3:14 PM,Tuesday,Littleton,Colorado,public,516,0,2,2,indiscriminate,32,m,w,,0,,,,,,,,436,7,46,23,4,,,0,.30-06 bolt-action hunting rifle,,39.5869,-105.102,28.2,7,8,60,Jefferson County,08,08059,21
+116,510300001255,Woodrow Wilson High School,5103000,Portsmouth City Pblc Schs,4/28/2010,2009-2010,2010,12:15 PM,Wednesday,Portsmouth,Virginia,public,"1,309",0,0,0,indiscriminate,15,m,b,student,0,,,,,,,,446,818,22,19,4,,,0,handgun,,36.815009,-76.381349,64.33,9,12,695,Portsmouth City,51,51740,12
+117,062271003364,South Gate High School,0622710,Los Angeles Unified,5/18/2010,2009-2010,2010,7:51 AM,Tuesday,South Gate,California,public,"3,289",0,1,1,targeted,15,m,,student,0,,,,,,,,12,11,3251,3,10,0,2,0,,,33.954604,-118.209757,126.1,9,12,2373,Los Angeles County,06,06037,21
+118,470399001624,Sullivan Central High School,4703990,Sullivan County,8/30/2010,2010-2011,2010,9:10 AM,Monday,Blountville,Tennessee,public,"1,115",1,0,1,targeted,,,,police officer,0,,,,,,,,"1,097",7,6,3,1,0,1,1,handgun,department issued,36.531336,-82.387049,67.7,9,12,386,Sullivan County,47,47163,41
+119,450249000639,Socastee High School,4502490,Horry 01,9/21/2010,2010-2011,2010,2:00 PM,Tuesday,Conway,South Carolina,public,"1,453",0,1,1,targeted,14,m,w,student,0,,,,,,,,"1,143",119,98,37,1,5,50,1,revolver,parent,33.6788,-79.004328,80.8,9,12,678,Horry County,45,45051,22
+120,063398005332,Alisal High School,0633980,Salinas Union High,10/1/2010,2010-2011,2010,7:53 AM,Friday,Salinas,California,public,"2,478",1,0,1,targeted,,m,,,0,,,,,,,,14,10,2420,28,1,5,0,0,,,36.686184,-121.595961,,3,12,1869,Monterey County,06,06053,12
+121,060750000711,Kelly Elementary School,0607500,Carlsbad Unified,10/8/2010,2010-2011,2010,12:00 PM,Friday,Carlsbad,California,public,477,0,2,2,indiscriminate,41,m,w,none,0,,,,,,,,314,12,67,36,3,0,45,0,.357-caliber Magnum revolver,,33.14836,-117.311227,,KG,5,45,San Diego County,06,06073,12
+122,550870000995,Marinette High School,5508700,Marinette School District,11/29/2010,2010-2011,2010,1:30 PM,Monday,Marinette,Wisconsin,public,690,0,0,0,hostage suicide,15,m,w,student,1,suicide,,,,,,,658,4,17,2,8,1,0,0,handgun,,45.084351,-87.629512,44.69,9,12,283,Marinette County,55,55075,41
+123,317374001251,Millard South High School,3173740,Millard Public Schools,1/5/2011,2010-2011,2011,12:45 PM,Wednesday,Omaha,Nebraska,public,"2,043",1,2,3,targeted and indiscriminate,17,m,b,student,1,suicide,,,,,,,"1,668",79,186,32,12,6,60,0,Smith & Wesson Glock .40-caliber handgun,father,41.203481,-96.146049,135.5,9,12,475,Douglas County,31,31055,11
+124,062271003034,Gardena High School,0622710,Los Angeles Unified,1/18/2011,2010-2011,2011,10:40 AM,Tuesday,Los Angeles,California,public,2299,0,2,2,accidental,17,m,,student,0,,,,,,,,22,610,1490,140,9,,,0,9mm Beretta semiautomatic handgun,,33.866372,-118.29633,,8,12,1556,Los Angeles County,06,06037,13
+125,063078004786,Louisiana Schnell Elementary School,0630780,Placerville Union Elementary,2/2/2011,2010-2011,2011,10:37 AM,Wednesday,Placerville,California,public,424,1,0,1,targeted,44,m,w,janitor,0,,,,,,,,259,2,121,3,8,0,31,0,.357-caliber revolver,legally purchased by shooter,38.735106,-120.779419,,KG,5,264,El Dorado County,06,06017,32
+126,180651001136,Martinsville West Middle,1806510,M S D Martinsville Schools,3/25/2011,2010-2011,2011,7:00 AM,Friday,Martinsville,Indiana,public,584,0,1,1,targeted,15,m,w,former student (expelled),0,,,,,,,,555,0,13,2,2,0,12,0,9mm handgun,friend's home,39.420621,-86.427053,38.97,6,8,354,Morgan County,18,18109,31
+127,120144003884,Sheeler Charter High School,1201440,Orange,4/13/2011,2010-2011,2011,12:00 PM,Wednesday,Apopka,Florida,public,465,0,1,1,accidental,17,m,b,,0,,,,,,,,104,250,101,2,1,0,7,1,,,28.673157,-81.494124,7,9,12,183,Orange County,12,12065,21
+128,482364002572,Ross Elementary School,4823640,Houston ISD,4/19/2011,2010-2011,2011,10:20 AM,Tuesday,Houston,Texas,public,462,0,2,2,accidental,6,m,,student,0,,,,,,,,1,301,145,2,9,1,3,0,.380-caliber semiautomatic handgun,"mother's friend, home shooter was staying",29.800326,-95.341835,27.32,PK,5,263,Harris County,48,48201,11
+129,370001100402,Cape Fear High School,3700011,Cumberland County Schools,10/24/2011,2011-2012,2011,1:00 PM,Monday,Fayetteville,North Carolina,public,"1,575",0,1,1,targeted,15,m,,student,0,,,,,,,,913,437,83,9,71,3,59,0,.22-caliber Daisy rifle,,35.034044,-78.762384,93.86,9,12,690,Cumberland County,37,37051,41
+130,481168000648,Cummings Middle School,4811680,Brownsville ISD,1/4/2012,2011-2012,2012,8:00 AM,Wednesday,Brownsville,Texas,public,746,1,0,1,targeted,,m,,police officer,0,,,,,,,,3,0,742,0,1,0,0,0,,department issued,25.913899,-97.493734,49.47,6,8,0,Cameron County,48,48061,12
+131,483306003674,North Forest High School,4833060,North Forest ISD,1/10/2012,2011-2012,2012,12:30 PM,Tuesday,Houston,Texas,public,"1,274",0,1,1,targeted,18,m,,student,0,,,,,,,,8,868,395,0,2,1,0,1,handgun ,,29.868788,-95.26259,88.68,9,12,1271,Harris County,48,48201,11
+132,330299000122,Walpole Elementary School,3302990,Fall Mountain Regional School District,2/10/2012,2011-2012,2012,11:00 AM,Friday,Walpole,New Hampshire,public,149,0,0,0,public suicide (attempted),14,m,,student,0,,,,,,,,139,0,5,1,1,0,3,0,20-gauge shotgun,,43.078915,-72.426439,15.3,5,8,42,Cheshire County,33,33005,42
+133,530066000135,Armin Jahr Elementary School,5300660,Bremerton School District,2/22/2012,2011-2012,2012,1:30 PM,Wednesday,Bremerton,Washington,public,411,0,1,1,accidental,9,m,w,student,0,,,,,,,,193,24,69,19,5,22,79,0,.45-caliber handgun,mother,47.593761,-122.63622,25.16,KG,5,310,Kitsap County,53,53035,13
+134,390471802789,Chardon High School,3904718,Chardon Local,2/27/2012,2011-2012,2012,7:30 AM,Monday,Chardon,Ohio,public,"1,058",3,3,6,indiscriminate,17,m,w,"student at neighboring school, rode bus with some victims",0,,,,,,,,1028,5,9,4,4,0,8,0,Ruger MK III .22-caliber semiautomatic handgun,uncle,41.591297,-81.199958,58,9,12,193,Geauga County,39,39055,31
+135,00259508,Episcopal School of Jacksonville,,,3/6/2012,2011-2012,2012,1:15 PM,Tuesday,Jacksonville,Florida,private,869,1,0,1,targeted,28,m,w,fired teacher,1,suicide,,,,,,,753,44,25,5,3,0,39,0,AK-47-style semiautomatic rifle,legally purchased at gun show,30.308617,-81.617917,92.8,6,12,,Duval County,12,12031,11
+136,010237000962,LeFlore High School,0102370,Mobile County,3/15/2012,2011-2012,2012,10:50 AM,Thursday,Mobile,Alabama,public,921,0,0,0,targeted,16,m,b,suspended student from different campus,0,,15,m,,,0,,5,912,2,0,1,0,1,0,handgun,,30.714209,-88.086526,56,8,12,774,Mobile County,01,01097,12
+137,370072002474,Mary Scroggs Elementary School,3700720,Chapel Hill-Carrboro Schools,5/25/2012,2011-2012,2012,2:00 PM,Friday,Chapel Hill,North Carolina,public,614,1,0,1,targeted,49,m,,parent of student,0,,,,,,,,325,32,106,66,1,0,84,0,Charter Arms .44 Bulldog revolver,,35.879122,-79.068506,42.73,KG,5,135,Orange County,37,37135,13
+138,240012000446,Perry Hall High School,2400120,Baltimore County Public Schools,8/27/2012,2012-2013,2012,10:45 AM,Monday,Baltimore,Maryland,public,"2,209",0,1,1,indiscriminate,15,m,w,student,0,,,,,,,,1361,508,79,213,2,1,45,1,shotgun,,39.39186,-76.466091,129.6,9,12,550,Baltimore County,24,24005,21
+139,172862003002,Normal Community High School,1728620,Mclean County USD 5,9/7/2012,2012-2013,2012,8:00 AM,Friday,Normal,Illinois,public,"1,895",0,0,0,indiscriminate,14,m,w,student,0,,,,,,,,1314,196,145,124,8,5,103,0,.22-caliber Ruger handgun,,40.533285,-88.914486,164,9,12,409,Mclean County,17,17113,41
+140,090291000617,Sandy Hook Elementary School,0902910,Newtown School District,12/14/2012,2012-2013,2012,9:35 AM,Friday,Newtown,Connecticut,public,454,26,2,28,indiscriminate,20,m,w,former student,1,suicide,,,,,,,389,15,22,23,0,0,5,0,Bushmaster XM15-E2S semiautomatic rifle,mother,41.41978,-73.277751,35.76,KG,4,23,Fairfield County,09,09001,22
+141,A0300763,Apostolic Revival Center and Christian School,,,1/7/2013,2012-2013,2013,11:00 AM,Monday,Fort Myers,Florida,private,22,1,0,1,targeted,,,,,0,,,,,,,,0,22,0,0,0,0,0,0,,,26.64062,-81.834212,3,PK,7,,Lee County,12,12071,13
+142,063873006511,Taft Union High School,0638730,Taft Union High,1/10/2013,2012-2013,2013,9:00 AM,Thursday,Taft,California,public,939,0,2,2,targeted,16,m,w,student,0,,,,,,,,487,9,384,6,22,12,19,0,12-gauge shotgun,older brother,35.146256,-119.460383,62.89,9,12,502,Kern County,06,06029,32
+143,130012000060,Price Middle School,1300120,Atlanta Public Schools,1/31/2013,2012-2013,2013,1:50 PM,Thursday,Atlanta,Georgia,public,403,0,1,1,targeted,15,m,,student,0,,,,,,,,0,380,20,0,0,0,3,1,small-caliber handgun,,33.708772,-84.387442,36,6,8,384,Fulton County,13,13121,11
+144,1056711,La Salle High School,,,4/29/2013,2012-2013,2013,8:00 AM,Monday,Cincinnati ,Ohio,private,708,0,0,0,public suicide,17,m,,student ,0,,,,,,,,613,71,4,3,0,0,17,0,.45-caliber semiautomatic handgun,family member,39.189162,-84.586704,40.1,9,12,,Hamilton County,39,39061,21
+145,120039000578,Redland Middle School,1200390,Dade,5/23/2013,2012-2013,2013,,Thursday,Homestead,Florida,public,493,0,1,1,accidental,11,m,,student,0,,,,,,,,44,185,257,3,0,0,4,0,.38-caliber handgun,,25.5369,-80.453001,30,6,8,448,Miami-Dade County,12,12086,41
+146,130174003766,Ronald E. McNair Discovery Learning Academy,1301740,Dekalb County,8/20/2013,2013-2014,2013,12:51 PM,Tuesday,Decatur,Georgia,public,822,0,0,0,targeted and indiscriminate,20,m,w,none,0,,,,,,,,9,786,23,0,0,0,4,0,.762-caliber AK-47-style semiautomatic rifle manufactured by Romarm/Cugar,acquaintence of shooter,33.7273,-84.3068,47.8,PK,5,810,Dekalb County,13,13089,21
+147,370150000592,Carver High School,3701500,Winston Salem/Forsyth County Schools,8/30/2013,2013-2014,2013,2:25 PM,Friday,Winston-Salem,North Carolina,public,565,0,1,1,targeted,18,m,b,student,0,,,,,,,,23,411,96,4,2,1,28,1,.38-caliber handgun,,36.1343,-80.2066,43.01,9,12,502,Forsyth County,37,37067,12
+148,A0300751,Agape Christian Academy,,,10/4/2013,2013-2014,2013,2:00 PM,Friday,Pine Hills,Florida,private,331,0,2,2,targeted,,,,none,0,,,,,,,,3,259,4,0,0,65,0,0,,,28.57586,-81.475051,22,KG,12,,Orange County,12,12095,21
+149,480894000327,Lanier High School,4808940,Austin ISD,10/15/2013,2013-2014,2013,12:04 PM,Tuesday,Austin,Texas,public,1554,0,0,0,public suicide,16,m,h,student ,1,suicide,,,,,,,61,138,1273,51,15,0,16,0,handgun,,30.3606,-97.708,108.34,9,12,613,Travis County,48,48453,11
+150,320048000247,Sparks Middle School,3200480,Washoe County School District,10/21/2013,2013-2014,2013,7:15 AM,Monday,Sparks,Nevada,public,721,1,2,3,indiscriminate,12,m,h,student,1,suicide,,,,,,,146,13,501,26,4,9,22,0,Ruger SR9C 9mm semiautomatic handgun,father,39.5517,-119.7694,35,7,8,538,Washoe County,32,32031,21
+151,060846000845,Newman Elementary School,0608460,Chino Valley Unified,10/23/2013,2013-2014,2013,11:14 AM,Wednesday,Chino,California,public,745,0,3,3,accidental,,m,,,0,,,,,,,,75,17,627,21,0,0,5,0,AR-15-style semiautomatic rifle,police weapon,34.0271,-117.7144,25.5,KG,6,543,San Bernardino County,06,06071,13
+152,120144001454,West Orange High School,1201440,Orange,12/4/2013,2013-2014,2013,1:15 PM,Wednesday,Winter Garden,Florida,public,"3,749",0,1,1,targeted,17,m,b,student,0,,,,,,,,1927,594,898,211,28,11,80,0,,,28.5428,-81.5673,158,9,12,1255,Orange County,12,12095,21
+153,080531000873,Arapahoe High School,0805310,"Littleton, School District No. 6, In The County Of Arapahoe",12/13/2013,2013-2014,2013,12:30 PM,Friday,Centennial,Colorado,public,"2,273",1,0,1,targeted,18,m,w,student,1,suicide,,,,,,,1879,26,225,57,9,3,74,1,Savage Arms Stevens Model 320 pump-action shotgun,legally purchased by shooter at Cabela's,39.5817,-104.9628,98.96,9,12,200,Arapahoe County,08,08005,21
+154,470258002032,Liberty Technology Magnet High School,4702580,Madison County,1/9/2014,2013-2014,2014,2:21 PM,Thursday,Jackson,Tennessee,public,802,0,1,1,targeted,16,m,b,student,0,,,,,,,,275,503,15,2,2,0,5,0,handgun,,35.675,-88.7593,60.3,9,12,561,Madison County,47,47113,41
+155,350225000506,Berrendo Middle School,3502250,Roswell Independent Schools,1/14/2014,2013-2014,2014,7:30 AM,Tuesday,Roswell,New Mexico,public,632,0,3,3,targeted,12,m,w,student,0,,,,,,,,311,6,302,9,1,2,1,1,shotgun,,33.4736,-104.5115,36.5,6,8,365,Chaves County,35,35005,41
+156,421314005056,King Elementary School,4213140,Lancaster SD,1/15/2014,2013-2014,2014,2:48 PM,Wednesday,Lancaster,Pennsylvania,public,540,0,0,0,unclear,,,,,0,,,,,,,,20,69,425,7,0,0,19,0,handgun,,40.0344,-76.2998,40.2,PK,5,498,Lancaster County,42,42071,13
+157,420007800563,Delaware Valley Charter School,4200078,Delaware Valley CHS,1/17/2014,2013-2014,2014,3:20 PM,Friday,Philadelphia,Pennsylvania,public,680,0,2,2,accidental or targeted,17,m,b,student,0,,,,,,,,0,675,5,0,0,0,0,1,handgun,purchased from friend,40.0331,-75.1446,42,9,12,512,Philadelphia County,42,42101,11
+158,,Rebound High School,1708370,Carbondale CHSD 165,1/27/2014,2013-2014,2014,12:00 PM,Monday,Carbondale,Illinois,public,100,0,1,1,targeted,18,m,b,student,0,,,,,,,,,,,,,,,0,handgun,,37.727439,-89.227812,,9,12,,Jackson County,17,17077,13
+159,150003000186,President Theodore Roosevelt High,1500030,Hawaii Department Of Education,1/28/2014,2013-2014,2014,8:30 AM,Tuesday,Honolulu,Hawaii,public,"1,416",0,1,1,targeted,,,,police officer,0,,,,,,,,72,17,36,846,6,338,97,0,,department issued,21.3104,-157.8372,77,9,12,588,Honolulu County,15,15003,11
+160,410198000270,Bend High School,4101980,Bend-Lapine Administrative SD 1,2/7/2014,2013-2014,2014,12:00 PM,Friday,Bend,Oregon,public,1642,0,0,0,public suicide,17,m,,student ,1,suicide,,,,,,,1368,21,180,25,23,4,21,0,hunting rifle,legally owned by shooter,44.0523,-121.2959,62.77,9,12,1368,Deschutes County,41,41017,13
+161,370405002253,Salisbury High School,3704050,Rowan-Salisbury Schools,2/10/2014,2013-2014,2014,2:41 PM,Monday,Salisbury,North Carolina,public,858,0,1,1,targeted,17,m,b,,0,,,,,,,,274,399,140,22,5,0,18,0,9mm gun (type unknown),,35.6648,-80.4849,54.53,9,12,577,Rowan County,37,37159,22
+162,291640003220,Success Academy,2916400,Kansas City 33,2/20/2014,2013-2014,2014,10:30 AM,Thursday,Raytown,Missouri,public,175,1,0,1,targeted,42,m,b,father of student,0,,,,,,,,,,,,,,,0,.45-caliber handgun ,legally purchased at pawn shop that morning,39.094,-94.5688,28.4,KG,12,,Jackson County,29,29095,11
+163,130228000967,Benjamin Banneker High School,1302280,Fulton County,3/25/2014,2013-2014,2014,1:00 PM,Tuesday,College Park,Georgia,public,"1,537",0,0,0,targeted,,,,,0,,,,,,,,3,1483,41,2,1,0,7,0,,,33.593,-84.5176,100.7,9,12,1376,Fulton County,13,13121,21
+164,370001201495,D. H. Conley High School,3700012,Pitt County Schools,4/9/2014,2013-2014,2014,1:30 PM,Wednesday,Greenville,North Carolina,public,"1,591",0,0,0,indiscriminate,17,m,b,student at rival school,0,,17,m,w,student at rival school,0,,973,395,138,27,5,0,53,0,.45-caliber handgun,,35.5306,-77.3248,87.89,9,12,528,Pitt County,37,37147,41
+165,411052001009,Reynolds High School,4110520,Reynolds SD 7,6/10/2014,2013-2014,2014,8:07 AM,Tuesday,Troutdale,Oregon,public,"2,806",1,1,2,indiscriminate,15,m,w,student,1,suicide,,,,,,,1208,231,917,263,21,41,125,1,AR-15-style semiautomatic rifle,brother,45.5285,-122.4026,106.78,9,12,1744,Multnomah County,41,41051,21
+166,120039005495,Stellar Leadership Academy,1200390,Dade,9/9/2014,2014-2015,2014,,Tuesday,Miami,Florida,public,233,0,1,1,targeted,,,,,0,,,,,,,,0,204,29,0,0,0,0,0,,,25.84814,-80.243461,13,9,12,62,Miami-Dade County,12,12086,21
+167,210299000628,Fern Creek High School,2102990,Jefferson County,9/30/2014,2014-2015,2014,1:00 PM,Tuesday,Louisville,Kentucky,public,"1,545",0,1,1,targeted,16,m,b,student,0,,,,,,,,716,577,136,73,1,1,41,1,handgun ,,38.156605,-85.592357,82.9,9,12,930,Jefferson County,21,21111,11
+168,370432000022,Albemarle High School,3704320,Stanly County Schools,9/30/2014,2014-2015,2014,7:40 AM,Tuesday,Albemarle,North Carolina,public,464,0,1,1,targeted,15,m,,student,0,,,,,,,,199,180,30,23,3,0,29,1,handgun,,35.371268,-80.193152,34.66,9,12,327,Stanly County,37,37167,32
+169,530486003317,Marysville Pilchuck High School,5304860,Marysville School District,10/24/2014,2014-2015,2014,10:39 AM,Friday,Marysville,Washington,public,"1,253",4,1,5,targeted,15,m,ai,student,1,suicide,,,,,,,736,25,250,46,77,1,118,1,.40-caliber Beretta Px4 Storm semiautomatic handgun,father,48.09582,-122.154021,55.3,9,12,532,Snohomish County,53,53061,22
+170,A1301728,Hand in Hand Montessori,,,1/26/2015,2014-2015,2015,3:07 PM,Monday,Roseville,Minnesota,private,288,0,0,0,indiscriminate,48,m,,,1,suicide,,,,,,,178,5,3,12,0,0,0,0,,,45.004709,-93.177024,21.4,PK,8,,Ramsey County,27,27123,21
+171,530585000869,North Thurston High School,5305850,North Thurston Public Schools,4/27/2015,2014-2015,2015,7:25 AM,Monday,Lacey,Washington,public,"1,477",0,0,0,indiscriminate,16,m,,student,0,,,,,,,,842,73,237,165,22,22,116,1,.357 Magnum revolver,father,47.051956,-122.83241,70.4,9,12,546,Thurston County,53,53067,22
+172,130438004230,W.S. Hornsby Elementary School,1304380,Richmond County,8/25/2015,2015-2016,2015,10:45 AM,Tuesday,Augusta,Georgia,public,742,0,1,1,accidental,,m,,student,0,,,,,,,,12,717,3,0,0,2,8,1,.380 semiautomatic handgun,grandmother's boyfriend,33.459564,-81.937992,,PK,5,,Richmond County,13,13245,12
+173,463135000264,Harrisburg High School,4631350,Harrisburg School District 41-2,9/30/2015,2015-2016,2015,10:00 AM,Wednesday,Harrisburg,South Dakota,public,802,0,1,1,targeted,16,m,w,student,0,,,,,,,,738,12,17,9,10,0,16,0,handgun,,43.43212,-96.6998,64.2,9,12,117,Lincoln County,46,46083,41
+174,482499010445,Karen Wagner High School,4824990,Judson ISD,10/15/2015,2015-2016,2015,9:15 AM,Thursday,San Antonio,Texas,public,"2,260",0,0,0,targeted,22,f,b,friend of student,0,,,,,,,,203,678,1299,38,5,3,34,0,,,29.45738,-98.3578,145.7,9,12,1620,Bexar County,48,48029,21
+175,130138002640,Vereen School,1301380,Colquitt County,11/5/2015,2015-2016,2015,,Thursday,Moultrie,Georgia,public,40,0,0,0,targeted,,m,,student,0,,,,,,,,,,,,,,,1,semiautomatic handgun,department issued,31.175943,-83.804368,,,,,Colquitt County,13,13071,41
+176,120027002425,Lecanto High School,1200270,Citrus,11/10/2015,2015-2016,2015,10:30 AM,Tuesday,Lecanto,Florida,public,1567,0,0,0,public suicide,15,m,,student ,0,,,,,,,,1243,72,132,59,12,1,48,0,Walther P1 9mm semiautomatic handgun,,28.824494,-82.499153,84,9,12,839,Citrus County,12,12017,41
+177,050729000443,Harmony Grove High School,0507290,Harmony Grove School District,1/13/2016,2015-2016,2016,3:00 PM,Wednesday,Camden,Arkansas,public,393,0,1,1,accidental,17,m,,student,0,,,,,,,,294,69,20,3,0,1,6,0,handgin,,33.6514,-92.7796,47.17,7,12,195,Ouachita County,05,05103,42
+178,421899003851,Benjamin Franklin High School,4218990,Philadelphia City SD,1/29/2016,2015-2016,2016,12:00 PM,Friday,Philadelphia,Pennsylvania,public,612,0,0,0,targeted,16,m,,,0,,,,,,,,9,516,46,31,1,0,9,0,.45-caliber handgun,,39.96367,-75.162,44.42,9,12,612,Philadelphia County,42,42101,11
+179,040345000284,Independence High School,0403450,Glendale Union High School District,2/12/2016,2015-2016,2016,7:53 AM,Friday,Glendale,Arizona,public,"2,114",1,0,1,targeted,15,f,,student,1,suicide,,,,,,,247,190,1535,42,29,3,68,0,9mm Beretta semiautomatic handgun,"classmate, who took from parents",33.53216,-112.221,89.6,9,12,1584,Maricopa County,04,04013,21
+180,390461202443,Madison High School,3904612,Madison Local,2/29/2016,2015-2016,2016,11:15 AM,Monday,Middletown,Ohio,public,1543,0,4,4,unclear,14,m,w,student,0,,,,,,,,1495,9,13,2,0,3,21,1,Sig Sauer P238 semiautomatic handgun,family home,39.53385,-84.4433,33.5,9,12,248,Butler County,39,39017,41
+181,010039000141,Huffman High School,0100390,Birmingham City,3/15/2016,2015-2016,2016,2:30 PM,Tuesday,Birmingham,Alabama,public,"1,433",0,1,1,targeted,19,m,b,brother of student,0,,,,,,,,13,1341,63,2,6,0,8,1,,,33.61291,-86.682,66,9,12,775,Jefferson County,01,01073,12
+182,480795000124,Alpine High School,4807950,Alpine ISD,9/8/2016,2016-2017,2016,9:00 AM,Thursday,Alpine,Texas,public,292,0,1,1,targeted,14,f,,student,1,suicide,,,,,,,97,2,190,1,0,1,1,0,9mm semiautomatic handgun,,30.371983,-103.665798,31.32,9,12,111,Brewster County,48,48043,33
+183,450087000092,Townville Elementary School,4500870,Anderson 04,9/28/2016,2016-2017,2016,1:45 PM,Wednesday,Townville,South Carolina,public,295,1,2,3,indiscriminate,14,m,w,former student,0,,,,,,,,265,13,3,2,0,1,11,0,.40-caliber handgun,father,34.56311,-82.903471,19,PK,6,186,Anderson County,45,45007,42
+184,010237000964,CF Vigor High School,0102370,Mobile County,10/11/2016,2016-2017,2016,3:45 PM,Tuesday,Prichard,Alabama,public,710,0,1,1,targeted,16,m,b,,0,,,,,,,,13,693,2,0,1,0,1,0,,,30.743233,-88.080692,41,9,12,511,Mobile County,01,01097,21
+185,390438000672,Linden-McKinley STEM Academy,3904380,Columbus City School District,10/13/2016,2016-2017,2016,2:40 PM,Thursday,Columbus,Ohio,public,719,0,2,2,targeted,,m,,,0,,,,,,,,56,582,35,2,1,0,43,1,,,40.00952,-82.974011,50,7,12,619,Franklin County,39,39049,11
+186,063441011252,June Jordan High School for Equity,0634410,San Francisco Unified,10/18/2016,2016-2017,2016,3:20 PM,Tuesday,San Francisco,California,public,258,0,4,4,targeted,,m,,,0,,,,,,,,8,48,157,28,1,5,11,0,handguns,,37.719558,-122.425241,23.72,9,12,198,San Francisco County,06,06075,11
+187,490014200328,Union Middle School,4900142,Canyons District,10/25/2016,2016-2017,2016,3:00 PM,Tuesday,Sandy,Utah,public,907,0,1,1,targeted,14,m,,student,0,,,,,,,,592,15,226,16,5,21,32,0,,mother,40.60715,-111.873061,,6,8,389,Salt Lake County,49,49035,21
+188,260426004113,Bay City Western High School,2604260,Bay City School District,11/11/2016,2016-2017,2016,12:30 PM,Friday,Auburn,Michigan,public,1256,0,1,1,accidental,50,m,w,resource officer,0,,,,,,,,1176,6,36,10,4,0,24,1,Sig Sauer .380-caliber semiautomatic handgun,legally purchased by shooter,43.60478,-84.0783,57.55,9,12,292,Bay County,26,26017,23
+189,490021000750,Mueller Park Jr. High,4900210,Davis District,12/1/2016,2016-2017,2016,8:13 AM,Thursday,Bountiful,Utah,public,813,0,0,0,indiscriminate,15,m,w,student,0,,,,,,,,661,14,78,17,2,19,22,0,12-gauge shotgun,parent,40.872489,-111.861172,,7,9,145,Davis County,49,49011,21
+190,390462102472,West Liberty-Salem Middle/High School,3904621,West Liberty-Salem Local,1/20/2017,2016-2017,2017,7:36 AM,Friday,West Liberty,Ohio,public,622,0,2,2,indiscriminate,17,m,w,student,0,,,,,,,,590,1,3,3,1,1,23,0,Mossberg Model 500 12-gauge shotgun,gift from grandparents,40.21594,-83.756761,38.4,6,12,0,Champaign County,39,39021,42
+191,220054000423,Scotlandville Magnet High School,2200540,East Baton Rouge Parish,2/6/2017,2016-2017,2017,12:00 PM,Monday,Baton Rouge,Louisiana,public,"1,388",0,0,0,targeted,14,m,,student,0,,,,,,,,10,1370,4,0,0,0,4,0,handgun,,30.53365,-91.177851,,8,12,770,East Baton Rouge Parish,22,22033,12
+192,063417005375,North Park Elementary School,0634170,San Bernardino City Unified,4/10/2017,2016-2017,2017,10:30 AM,Monday,San Bernardino,California,public,531,2,1,3,targeted,53,m,b,spouse of teacher,1,suicide,,,,,,,61,60,360,9,3,0,38,0,Smith & Wesson .357 Magnum revolver,,34.179206,-117.301804,19,KG,6,407,San Bernardino County,06,06071,12
+193,220033000252,Moss Bluff Elementary School,2200330,Calcasieu Parish,5/15/2017,2016-2017,2017,7:50 AM,Monday,Lake Charles,Louisiana,public,963,0,1,1,accidental,7,m,w,student,0,,,,,,,,754,118,36,14,2,0,39,0,.380-caliber semiautomatic handgun,"father's gun, kept by 17 year old who shared room with shooter",30.29966,-93.2032,69.56,PK,5,439,Calcasieu Parish,22,22019,41
+194,010171002162,Greensboro High School,0101710,Hale County,5/24/2017,2016-2017,2017,11:30 AM,Wednesday,Greensboro,Alabama,public,464,0,0,0,targeted,,m,,student,0,,,,,,,,3,457,1,0,0,0,3,0,.22-caliber revolver,,32.70713,-87.589,26.5,9,12,373,Hale County,01,01065,42
+195,170993001166,Warren Elementary School,1709930,City of Chicago SD 299,6/16/2017,2016-2017,2017,1:51 PM,Friday,Chicago,Illinois,public,280,0,2,2,targeted,,m,b,,0,,,,,,,,0,275,4,0,0,0,1,1,,,41.726922,-87.575184,14.1,PK,8,263,Cook County,17,17031,11
+196,390438004430,Columbus Scioto 6-12,3904380,Columbus City School District,9/8/2017,2017-2018,2017,8:33 AM,Friday,Columbus,Ohio,public,127,0,0,0,indiscriminate,18,m,b,,0,,,,,,,,46,71,4,0,0,0,6,0,.38-caliber handgun,,39.90163,-82.9958,34,6,12,127,Franklin County,39,39049,11
+197,530297000485,Freeman High School,5302970,Freeman School District,9/13/2017,2017-2018,2017,10:00 AM,Wednesday,Rockford,Washington,public,330,1,3,4,indiscriminate,15,m,w,student,0,,,,,,,,282,7,23,5,4,0,9,0,"AR-15-stylee semiautomatic rifle, handgun",father,47.519667,-117.19638,16.61,9,12,69,Spokane County,53,53063,42
+198,172505002734,Mattoon High School,1725050,Mattoon CUSD 2,9/20/2017,2017-2018,2017,11:30 AM,Wednesday,Mattoon,Illinois,public,1047,0,1,1,targeted,14,m,w,student,0,,,,,,,,931,36,40,9,1,1,29,1,.40-caliber Ruger semiautomatic handgun,stepfather,39.474405,-88.386955,58.05,9,12,518,Coles County,17,17029,32
+199,262115008414,Pattengill Academy,2621150,Lansing Public School District,11/3/2017,2017-2018,2017,4:30 PM,Friday,Lansing,Michigan,public,506,0,1,1,accidental,21,m,b,,0,,,,,,,,135,180,125,11,4,0,51,0,handgun,puchased legally by shooter from Dicker & Deal,42.73889,-84.5243,27.84,4,6,393,Ingham County,26,26065,12
+200,130228000967,Benjamin Banneker High School,1302280,Fulton County,11/9/2017,2017-2018,2017,3:25 PM,Thursday,College Park,Georgia,public,1547,0,2,2,accidental,,,,,0,,,,,,,,6,1478,49,2,1,0,11,0,small-caliber handgun,,33.59297,-84.5176,106.9,9,12,1544,Fulton County,13,13121,21
+201,060978004178,Rancho Tehama Elementary School,0609780,Corning Union Elementary,11/14/2017,2017-2018,2017,7:50 AM,Tuesday,Corning,California,public,101,0,2,2,targeted and indiscriminate,44,m,w,,1,suicide,,,,,,,44,2,49,3,2,0,1,0,"""homemade"" AR-15-style rifle",contructed from parts legally purchased by shooter,40.015716,-122.398455,5.1,KG,5,84,Tehama County,06,06103,43
+202,350015000135,Aztec High School,3500150,Aztec Municipal Schools,12/7/2017,2017-2018,2017,8:04 AM,Thursday,Aztec,New Mexico,public,905,2,0,2,indiscriminate,21,m,w,former student,1,suicide,,,,,,,495,7,225,2,170,2,4,0,Glock 9mm semiautomatic handgun,legally purchased by shooter,36.820644,-107.990379,52.5,9,12,432,San Juan County,35,35045,31
+203,370192000956,High Point Central High School,3701920,Guilford County Schools,12/11/2017,2017-2018,2017,2:08 PM,Monday,High Point,North Carolina,public,1442,0,0,0,targeted,15,m,b,,0,,,,,,,,437,589,216,147,6,0,47,1,handgun,,35.95795,-80.0231,94.67,9,12,904,Guilford County,37,37081,12
+204,482445002740,Italy High School,4824450,Italy ISD,1/22/2018,2017-2018,2018,7:53 AM,Monday,Italy,Texas,public,288,0,1,1,targeted,16,m,w,student,0,,,,,,,,141,43,94,0,0,0,10,0,.380-caliber semiautomatic handgun,,32.181129,-96.878968,29.21,6,12,173,Ellis County,48,48139,42
+205,220018802340,The NET Charter High School,2200188,Rsd-educators For Quality Alternatives,1/22/2018,2017-2018,2018,1:30 PM,Monday,New Orleans,Louisiana,public,172,0,0,0,targeted,,,,,0,,,,,,,,5,151,16,0,0,0,0,0,,,29.93996,-90.079691,19.94,9,12,,Orleans Parish,22,22071,11
+206,210381000976,Marshall County High School,2103810,Marshall County,1/23/2018,2017-2018,2018,7:57 AM,Tuesday,Benton,Kentucky,public,1384,2,16,18,indiscriminate,15,m,w,student,0,,,,,,,,1353,1,14,2,3,0,11,1,handgun,,36.912835,-88.332917,73.1,9,12,584,Marshall County,21,21157,42
+207,010237000942,Murphy High School,0102370,Mobile County,1/25/2018,2017-2018,2018,11:20 AM,Thursday,Mobile,Alabama,public,2100,0,0,0,targeted,16,m,b,student,0,,,,,,,,402,1565,62,42,3,2,24,1,revolver,stolen,30.6828,-88.0867,120,9,12,905,Mobile County,01,01097,12
+208,062271012483,Salvador B. Castro Middle School,0622710,Los Angeles Unified,2/1/2018,2017-2018,2018,9:00 AM,Thursday,Los Angeles,California,public,345,0,5,5,accidental,12,f,,student,0,,,,,,,,2,8,311,21,0,0,3,0,semiautomatic handgun,,34.06169,-118.265,15.83,6,8,309,Los Angeles County,06,06037,11
+209,120018002721,Marjory Stoneman Douglas High School,1200180,Broward,2/14/2018,2017-2018,2018,2:21 PM,Wednesday,Parkland,Florida,public,3158,17,17,34,indiscriminate,19,m,w,former student (expelled),0,,,,,,,,1871,364,623,210,17,2,71,1,Smith & Wesson M&P15 AR-15-style rifle,legally purchased by shooter,26.304483,-80.269365,129,9,12,710,Broward County,12,12011,21
+210,130162000786,Dalton High School,1301620,Dalton City,2/28/2018,2017-2018,2018,11:30 AM,Wednesday,Dalton,Georgia,public,1829,0,0,0,indiscriminate,53,m,w,teacher,0,,,,,,,,458,103,1192,36,2,0,38,1,.38-caliber snub-nosed revolver,,34.77972,-84.99053,101.7,9,12,1152,Whitfield County,13,13313,13
+211,010039000141,Huffman High School,0100390,Birmingham City,3/7/2018,2017-2018,2018,3:45 PM,Wednesday,Birmingham,Alabama,public,"1,433",1,0,1,accidental,17,m,b,student,0,,,,,,,,13,1341,63,2,6,0,8,1,handgun,,33.61291,-86.682,66,9,12,775,Jefferson County,01,01073,12
+212,062553003843,Seaside High School,0625530,Monterey Peninsula Unified,3/13/2018,2017-2018,2018,1:20 PM,Tuesday,Seaside,California,public,1059,0,3,3,accidental,,m,w,teacher,0,,,,,,,,113,79,680,107,1,35,44,0,Glock 21 .45-caliber semiautomatic handgun,department issued,36.62444,-121.838,52.75,9,12,736,Monterey County,06,06053,22
+213,301854000824,Big Sky High School,3018540,Missoula H S,3/16/2018,2017-2018,2018,12:45 PM,Friday,Missoula ,Montana,public,1075,0,0,0,targeted,,m,,resource officer,0,,,,,,,,903,17,58,21,70,6,0,1,handgun,department issued,46.850867,-114.057737,68.29,9,12,405,Missoula County,30,30063,13
+214,510300001245,Douglass Park Elementary School,5103000,Portsmouth City Pblc Schs,3/19/2018,2017-2018,2018,4:23 PM,Monday,Portsmouth,Virginia,public,761,0,1,1,unclear,,,,,0,,,,,,,,5,738,8,2,1,0,7,0,,,36.81828,-76.3393,44,KG,6,758,Portsmouth City,51,51740,13
+215,240060001224,Great Mills High School,2400600,St. Mary's County Public Schools,3/20/2018,2017-2018,2018,7:55 AM,Tuesday,Great Mills,Maryland,public,1535,1,1,2,targeted,17,m,w,student,1,suicide,,,,,,,657,577,121,76,4,1,99,1,Glock semiautomatic handgun,father,38.24743,-76.4875,86.3,9,12,554,St. Mary's County,24,24037,23
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
