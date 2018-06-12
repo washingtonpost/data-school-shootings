@@ -19,3 +19,5 @@ The Post’s database is updated regularly as school shootings are reported and 
 Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/) and [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/)
 
 Production and Presentation: [John Muyskens](https://www.washingtonpost.com/people/john-muyskens/) and [Monica Ulmanu](https://www.washingtonpost.com/people/monica-ulmanu/)
+
+Here is some analysis.
