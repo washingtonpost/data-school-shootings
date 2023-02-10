@@ -16,6 +16,8 @@ The Post’s database is updated regularly as school shootings are reported and 
 
 # Credits:
 
-Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/) and [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/)
+Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/), [Hannah Thacker](https://www.washingtonpost.com/people/hannah-thacker/) and [Linda Chong](https://www.washingtonpost.com/people/linda-chong/)
 
-Production and Presentation: [John Muyskens](https://www.washingtonpost.com/people/john-muyskens/) and [Monica Ulmanu](https://www.washingtonpost.com/people/monica-ulmanu/)
+Production and Presentation: [John Muyskens](https://www.washingtonpost.com/people/john-muyskens/), [Monica Ulmanu](https://www.washingtonpost.com/people/monica-ulmanu/) and [Reuben Fischer-Baum](https://www.washingtonpost.com/people/reuben-fischer-baum/)
+
+Editing: [Lynda Robinson](https://www.washingtonpost.com/people/lynda-robinson/), [Meghan Hoyer](https://www.washingtonpost.com/people/meghan-hoyer/) and [Wendy Galietta](https://www.washingtonpost.com/people/wendy-galietta/)
