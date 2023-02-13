@@ -14,6 +14,8 @@ To calculate how many children were exposed to gunfire in each school shooting, 
 
 The Post’s database is updated regularly as school shootings are reported and as facts emerge about individual cases. The Post is seeking assistance in making the database as comprehensive as possible. To provide information about school shootings since Columbine that fit The Post’s definition, send us an email at schoolshootings@washpost.com.
 
+Please reach out with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](https://github.com/washingtonpost/data-school-shootings/blob/master/CODE_OF_CONDUCT.md).
+
 # Credits:
 
 Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/), [Hannah Thacker](https://www.washingtonpost.com/people/hannah-thacker/) and [Linda Chong](https://www.washingtonpost.com/people/linda-chong/)
