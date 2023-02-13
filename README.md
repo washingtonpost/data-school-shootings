@@ -22,4 +22,4 @@ Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people
 
 Production and Presentation: [John Muyskens](https://www.washingtonpost.com/people/john-muyskens/), [Monica Ulmanu](https://www.washingtonpost.com/people/monica-ulmanu/), [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/) and [Reuben Fischer-Baum](https://www.washingtonpost.com/people/reuben-fischer-baum/)
 
-Editing: [Lynda Robinson](https://www.washingtonpost.com/people/lynda-robinson/), [Meghan Hoyer](https://www.washingtonpost.com/people/meghan-hoyer/), [Wendy Galietta](https://www.washingtonpost.com/people/wendy-galietta/) and [Frances Moody](https://www.washingtonpost.com/people/frances-moody/)
+Editing: [Lynda Robinson](https://www.washingtonpost.com/people/lynda-robinson/), [Meghan Hoyer](https://www.washingtonpost.com/people/meghan-hoyer/), [Wendy Galietta](https://www.washingtonpost.com/people/wendy-galietta/), [Frances Moody](https://www.washingtonpost.com/people/frances-moody/) and [Stu Werner](https://www.washingtonpost.com/people/stu-werner/)
