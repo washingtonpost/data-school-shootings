@@ -18,7 +18,7 @@ Please reach out with any questions about the data, feedback, updated informatio
 
 # Credits:
 
-Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/), [Hannah Thacker](https://www.washingtonpost.com/people/hannah-thacker/) and [Linda Chong](https://www.washingtonpost.com/people/linda-chong/)
+Research and Reporting: [John Woodrow Cox](https://www.washingtonpost.com/people/john-woodrow-cox/), [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Allyson Chiu](https://www.washingtonpost.com/people/allyson-chiu/), [Hannah Thacker](https://www.washingtonpost.com/people/hannah-thacker/), [Linda Chong](https://www.washingtonpost.com/people/linda-chong/), [Lucas Trevor](https://www.washingtonpost.com/people/lucas-trevor/) and [Alex Horton](https://www.washingtonpost.com/people/alex-horton/).
 
 Production and Presentation: [John Muyskens](https://www.washingtonpost.com/people/john-muyskens/), [Monica Ulmanu](https://www.washingtonpost.com/people/monica-ulmanu/), [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/) and [Reuben Fischer-Baum](https://www.washingtonpost.com/people/reuben-fischer-baum/)
 
